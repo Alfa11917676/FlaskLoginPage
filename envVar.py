@@ -1,6 +1,6 @@
 USERNAME1='adesh'
 PASSWORD1='defiEdge'
-USERNAME2='adesh'
+USERNAME2='rohan'
 PASSWORD2='defiEdge'
 USERNAME3='tarun'
 PASSWORD3='defiEdge'
